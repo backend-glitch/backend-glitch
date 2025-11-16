@@ -70,6 +70,18 @@
   <br/><br/>
 
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=backend-glitch&theme=github-light" />
+
+  <div align="center">
+ <!-- <img width="90%" src="https://github.com/DenverCoder1/github-readme-streak-stats/raw/master/docs/demo/rounded_box.svg" /> -->
+</div>
+
+<div align="center">
+  <h2>💡 LeetCode Stats</h2>
+
+ <img src="https://leetcard.jacoblin.cool/BifH1TRfIz?theme=light&ext=contest&site=global" />
+
+</div>
+
 </div>
 
 <br/>
