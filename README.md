@@ -1,4 +1,4 @@
-<h1 align="center">Backend-Glitch</h1>
+<h1 align="center">ARJUN VERMA</h1>
 <h3 align="center">CS Student • Web Developer • Backend Learner</h3>
 
 <br />
