@@ -33,7 +33,7 @@
 
   <!-- LANGUAGES -->
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=js,cpp,py,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,cpp,py,java,html,css" />
 
   <!-- FRONTEND -->
   <h3>Frontend</h3>
@@ -89,7 +89,7 @@
     <h3>📁 Portfolio Website</h3>
     <p>Modern, responsive personal portfolio built with HTML, CSS, JS.</p>
     <em>Tech: HTML • CSS • JavaScript</em><br/>
-    🔗 <b>Add Repo Link</b>
+    🔗 <b>https://backend-glitch.github.io/WEB_PROJECT/</b>
   </div>
 
 
@@ -98,7 +98,7 @@
     <h3>Contacts Manager 👨‍💻</h3>
     <p>CRUD operations</p>
     <em>Tech: Pandas MySql Kaggle</em><br/>
-    🔗 <b>Add Repo Link</b>
+    🔗 <b>https://github.com/backend-glitch/PROJECT_5</b>
   </div>
 
  
@@ -122,6 +122,7 @@
   <p>
     📧 Email: <b>vineetaarjun123@gmail.com</b><br/>
     💼 LinkedIn: <b>https://linkedin.com/in/arjun-verma</b><br/>
+    🚀 Leetcode : <b>https://leetcode.com/u/BifH1TRfIz/</b><br/>
    
   </p>
 </div>
