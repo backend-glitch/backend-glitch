@@ -101,6 +101,7 @@
     <h3>📁 Portfolio Website</h3>
     <p>Modern, responsive personal portfolio built with HTML, CSS, JS.</p>
     <em>Tech: HTML • CSS • JavaScript</em><br/>
+     <p>Status : DONE ✅.</p>
     🔗 <b>https://backend-glitch.github.io/WEB_PROJECT/</b>
   </div>
 
@@ -110,6 +111,7 @@
     <h3>Contacts Manager 👨‍💻</h3>
     <p>CRUD operations</p>
     <em>Tech: Pandas MySql Kaggle</em><br/>
+     <p>Status : DONE✅</p>
     🔗 <b>https://github.com/backend-glitch/PROJECT_5</b>
   </div>
 
@@ -119,6 +121,7 @@
     <p>contains html,css,jss ready-made components</p>
     <em>react node git</em><br/>
     🔗 <b>https://github.com/backend-glitch/LI-COMPO/</b>
+     <p>Status : Upcoming 🔜</p>
   </div>
 
      <!-- PROJECT 4 -->
@@ -126,6 +129,7 @@
     <h3>Multi-contribution Graph 👨‍💻</h3>
     <p>Github component for displaying teams menbers graphs</p>
     <em>github git js node apis</em><br/>
+     <p>Status:Upcoming🔜</p>
     🔗 <b>https://github.com/backend-glitch/IDEA-COMPO/</b>
   </div>
 
