@@ -113,6 +113,22 @@
     🔗 <b>https://github.com/backend-glitch/PROJECT_5</b>
   </div>
 
+    <!-- PROJECT 3 -->
+  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 16px; width: 80%; margin-bottom: 15px;">
+    <h3>Components LIB - License publishing 👨‍💻</h3>
+    <p>contains html,css,jss ready-made components</p>
+    <em>react node git</em><br/>
+    🔗 <b>https://github.com/backend-glitch/LI-COMPO/</b>
+  </div>
+
+     <!-- PROJECT 4 -->
+  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 16px; width: 80%; margin-bottom: 15px;">
+    <h3>Multi-contribution Graph 👨‍💻</h3>
+    <p>Github component for displaying teams menbers graphs</p>
+    <em>github git js node apis</em><br/>
+    🔗 <b>https://github.com/backend-glitch/IDEA-COMPO/</b>
+  </div>
+
  
   
 </div>
