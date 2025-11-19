@@ -49,7 +49,7 @@
 
   <!-- TOOLS -->
   <h3>Tools</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,windows,vscode" />
 </div>
 
 <br/>
