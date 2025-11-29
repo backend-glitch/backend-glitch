@@ -64,7 +64,7 @@
 <div align="center">
   <h2>📊 GitHub Stats</h2>
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=backend-glitch&show_icons=true&theme=default&hide_border=false" />
+ 
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=backend-glitch&theme=default" />
 
   <br/><br/>
