@@ -37,7 +37,7 @@
 
   <!-- FRONTEND -->
   <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react" />
 
   <!-- BACKEND -->
   <h3>Backend (Learning)</h3>
