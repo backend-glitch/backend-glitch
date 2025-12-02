@@ -33,7 +33,7 @@
 
   <!-- LANGUAGES -->
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=js,cpp,py,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,rust" />
 
   <!-- FRONTEND -->
   <h3>Frontend</h3>
@@ -49,7 +49,7 @@
 
   <!-- TOOLS -->
   <h3>Tools</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,windows,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,windows,vscode" />
 </div>
 
 <br/>
