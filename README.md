@@ -1,5 +1,10 @@
-<h1 align="center">ARJUN VERMA</h1>
-<h3 align="center">CS Student • Web Developer • Backend Learner</h3>
+<!-- <h1 align="center">ARJUN VERMA</h1>
+<h3 align="center">CS Student • Web Developer • Backend Learner</h3> -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=26&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Arjun Verma;Building+Engineering+scalable+web+infrastructure.;Web developer;Backend Learner." alt="Typing Animation" />
+</p>
+
 
 <br />
 
