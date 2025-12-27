@@ -1,8 +1,8 @@
 <!-- <h1 align="center">ARJUN VERMA</h1>
 <h3 align="center">CS Student • Web Developer • Backend Learner</h3> -->
-
+<h1 align = "center"><img src="https://gitstar-s9jh.vercel.app/card?title=🔥ARJUN.VERMA🔥&color1=indigo&color2=purple"></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Arjun+Verma;Web+Developer.;Exploring+Backend.;Learning+Rust." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Web+Developer.;Exploring+Backend.;Learning+Rust." alt="Typing Animation" />
 </p>
 
 
